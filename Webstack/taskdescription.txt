@@ -1,0 +1,14 @@
+Task. Install Opencart
+Opened: Friday, 15 July 2022, 12:01 AM
+Due: Friday, 12 August 2022, 11:00 AM
+1 Install the Opencart application
+
+Install MySQL;
+Create a user on the mysql server;
+Creating a database for the Opencart application;
+Assign permission to access the database;
+Install the Apache HTTP server;
+Install PHP and necessary extensions;
+Install and configure Opencart;
+2 Create a bash script to dump the database and write the dump to a file 
+3 Record a short video (1 - 3 minutes) showcasing your app and post it on your YouTube channel.
